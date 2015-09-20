@@ -1,4 +1,4 @@
-# Denoise based on Haar Coefficients
+# Denoise based on Haar Coefficients Algorithm
 
 1. Compile c code: ```./compilegcc DenoiseWithHaarCoefficients``` 
 2. Run executable file: ```./DenoiseWithHaarCoefficients```
